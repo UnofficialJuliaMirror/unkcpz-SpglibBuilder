@@ -3,7 +3,7 @@
 using BinaryBuilder
 
 name = "SpglibBuilder"
-version = v"1.12.2-1"
+version = v"1.12.2"
 
 # Collection of sources required to build SpglibBuilder
 sources = [
